@@ -6,3 +6,4 @@ It's the end of 2022 and coming to a new year in your career. Many developers st
 I plan to share these technologies in the upcoming year, 2023, via my blogs. Keep in touch with [csandunblogs.com](csandunblogs.com) and my LinkedIn.
 
 ## Roadmap 2023
+[![Roadmap](https://github.com/csandun/dotnet-roadmap-2023/blob/main/CSandun's%20.NET%20Backend%20Developer%20Roadmap%20in%202023-%20final.png?raw=true)](https://csandunblogs.com/csadnun-dotnet-road-map/)
